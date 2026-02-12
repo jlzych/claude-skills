@@ -13,7 +13,9 @@ cp skill-name/skill.md ~/.claude/skills/
 
 ## Skills
 
-### Coming soon...
+### [PR Standards Extractor](./pr-standards-extractor)
+
+Extract coding standards from PR review comments and add them to your project's `CLAUDE.local.md`. Captures team conventions, architectural patterns, and anti-patterns discussed in code reviews as persistent project knowledge.
 
 ## License
 
