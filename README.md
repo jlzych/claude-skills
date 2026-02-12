@@ -17,6 +17,10 @@ cp skill-name/skill.md ~/.claude/skills/
 
 Extract coding standards from PR review comments and add them to your project's `CLAUDE.local.md`. Captures team conventions, architectural patterns, and anti-patterns discussed in code reviews as persistent project knowledge.
 
+### [Skill Extractor](./skill-extractor)
+
+Extract meaningful, reusable skills from conversation history and generate properly formatted skill files. Analyzes patterns, checks for duplication against existing skills, and structures them as ready-to-use skill library additions.
+
 ## License
 
 MIT
